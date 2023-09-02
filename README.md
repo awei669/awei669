@@ -1,7 +1,7 @@
 ### Hi there is Wei Pan
 I’m currently a Master Student advised by Prof [Anna Zhu](http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml)(computer vision & multimodal learning, 2021.09~present) at Wuhan University of Technology.  
 
-My research interests mainly include：Image generation(font, handwritten), weak supervision, contrastive learning, diffusion-model.   
+My research interests mainly include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model.   
 
 I am looking for an internship related to computer vision/generation, please contact we1pan@163.com if you are interested with me. 
 
