@@ -1,4 +1,4 @@
-### Hi there is Wei Pan
+### Hi there is Wei Pan（潘炜）
 Currently I’m a Master Student advised by Prof. [Anna Zhu](http://cst.whut.edu.cn/xygk/szdw/201809/t20180911_876961.shtml)(Computer Vision & Multimodal Learning, 2021.09 ~ Present) at Wuhan University of Technology.  
 
 My research interests mainly include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model.   
