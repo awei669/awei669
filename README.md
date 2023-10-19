@@ -3,7 +3,7 @@ Currently I’m a Master Student advised by Prof. [Anna Zhu](http://cst.whut.edu
 
 My research interests mainly include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model.   
 
-I am looking for an internship related to Computer Vision/Generation. If you have any helpful information, please feel free to contact me we1pan@163.com.
+I am looking for an Phd position related to Artificial Intelligence/Computer Vision in 2024 fall. If you have any helpful information, it would be grateful to contact we1pan@163.com.
 
 
 <!--
