@@ -1,10 +1,7 @@
 ### Hi there is Wei Pan（潘炜）
-I am currently studying for a master's degree. 
-
-My research interests mainly include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model.   
+My research interests during my master’s degree include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model.   
 
 I am looking for a Phd position related to Artificial Intelligence/Computer Vision in 2024 fall. If you have any helpful information, it would be grateful to contact we1pan@163.com.
-
 
 <!--
 **awei669/awei669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
