@@ -1,5 +1,6 @@
 ### Hi there is Wei Pan（潘炜）
-My research interests during my master’s degree include: Image generation(font, handwritten), Weak supervision, Contrastive learning, Diffusion-model.   
+
+Graduated from Wuhan University of Technology with a master’s degree in engineering.
 
 <!--
 **awei669/awei669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
